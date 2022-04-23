@@ -3,4 +3,5 @@
 here is the game interface
 
 <br />
-![](img/gameinterface.gif)
+
+![](Tic_tac_toe/img/gameinterface.gif)
