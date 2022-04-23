@@ -2,6 +2,6 @@
 - console game.
 here is the game interface
 
-<br />
+<br>
 
-![](Tic_tac_toe/img/gameinterface.gif)
+![](img/gameinterface.gif)
